@@ -1,0 +1,5051 @@
+[
+  {
+    "Assessment": "Severe",
+    "Headline": "Interbank Lending Rates Manipulation",
+    "Status": "Ongoing",
+    "Last Updated": "Jul-19",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Severe",
+    "Headline": "Investigation and Lawsuit over Foreign Exchange Market Manipulation",
+    "Status": "Ongoing",
+    "Last Updated": "May-19",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Severe",
+    "Headline": "Government Sponsored Bond Market Price Manipulation",
+    "Status": "Ongoing",
+    "Last Updated": "May-19",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Severe",
+    "Headline": "United States: Investigations and Civil Lawsuits over Alleged Price Manipulation of Treasury",
+    "Status": "Ongoing",
+    "Last Updated": "May-19",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "Germany: Alleged Involvement in the Fraudulent Emissions Trading Scheme",
+    "Status": "Ongoing",
+    "Last Updated": "Aug-19",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "Australia: Criminal Charges Filed Against Bank and Senior Executives Over Alleged Cartel Conduct on Capital Raising",
+    "Status": "Ongoing",
+    "Last Updated": "Jul-19",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "Investigations over Alleged Involvement in 1MDB Money Laundering",
+    "Status": "Ongoing",
+    "Last Updated": "Jul-19",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "United States: Inquiries into Business Dealings with Trump Organization",
+    "Status": "Ongoing",
+    "Last Updated": "Jul-19",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "Germany: Regulatory Order to Re-Examine Alleged Risky Customers and Anti-Money Laundering Processes",
+    "Status": "Ongoing",
+    "Last Updated": "Jun-19",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "Investigations over Alleged Role in Tax Avoidance through Dividend Arbitrage Trade; EUR 4 Million German Settlement with Frankfurt Prosecutor in December 2018",
+    "Status": "Ongoing",
+    "Last Updated": "Jun-19",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "Investigations on Hiring Practices Alleging Potential Violations of U.S. Foreign Corrupt Practice Act and Other Laws",
+    "Status": "Ongoing",
+    "Last Updated": "May-19",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "South Korea: Investigation over Alleged Discrepancy in Derivatives Trades",
+    "Status": "Ongoing",
+    "Last Updated": "May-19",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "Inquiry over Alleged Involvement in Danske Bank Money Laundering Investigation",
+    "Status": "Ongoing",
+    "Last Updated": "May-19",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "Precious Metals Price Manipulation",
+    "Status": "Ongoing",
+    "Last Updated": "May-19",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "Investigations into Alleged Complicity in Money Laundering by Russian Clients and International Sanctions Violations",
+    "Status": "Ongoing",
+    "Last Updated": "May-19",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "Colorado, United States: Dismissal of Purported Class Action Lawsuit over Alleged Manipulation of Canadian Dealer Offered Rate",
+    "Status": "Concluded",
+    "Last Updated": "May-19",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "United States: Lawsuit over Allegations of BBSW Manipulation",
+    "Status": "Ongoing",
+    "Last Updated": "May-19",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "Probe over Alleged Italian Government Bond Market Manipulation",
+    "Status": "Ongoing",
+    "Last Updated": "May-19",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "United States: Investigation and Lawsuits over Alleged Price Manipulation of Governmentsponsored Enterprise Bonds",
+    "Status": "Ongoing",
+    "Last Updated": "May-19",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "India: INR 10 Million Penalty over Alleged Non-compliance with Regulations on the Use of SWIFT Messaging Service",
+    "Status": "Concluded",
+    "Last Updated": "Mar-19",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "Penalty of USD75 Million over Alleged Inadequate Internal Controls Resulting in Mishandling of ADRs; Ongoing Investigation by German Tax Authorities",
+    "Status": "Ongoing",
+    "Last Updated": "Dec-18",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "Regulatory Reviews over Alleged Role in the Panama Papers; German HQ Raided",
+    "Status": "Ongoing",
+    "Last Updated": "Dec-18",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "Purported Class Action Lawsuits over Alleged Mexican Bond Market Manipulation",
+    "Status": "Ongoing",
+    "Last Updated": "Nov-18",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "India: Central Bank INR 30 Million Penalty over Alleged Violations on RBI Norms",
+    "Status": "Concluded",
+    "Last Updated": "Nov-18",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "United States: Regulator Launched Probe over Alleged Accounts Operation for Political Party with Known Association with Terrorist Organization",
+    "Status": "Ongoing",
+    "Last Updated": "Sep-17",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "Poland: Inquiry over Alleged Discrepancy in Setting FX Rate for Credit Deals",
+    "Status": "Ongoing",
+    "Last Updated": "Jul-17",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "United States: Investigation over Alleged Involvement in North Korea Money Laundering Activities",
+    "Status": "Ongoing",
+    "Last Updated": "Jul-17",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "FIFA: Investigation over Alleged Involvement in Money Laundering",
+    "Status": "Ongoing",
+    "Last Updated": "Apr-17",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "Japan: Deutsche Securities Faces Potential Penalties from SESC Over Alleged Disclosure of Confidential Information to Clients",
+    "Status": "Ongoing",
+    "Last Updated": "Apr-17",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "EU: Criticism on the Discrepancies of Profit vs Taxes from the Use of Tax Havens",
+    "Status": "Ongoing",
+    "Last Updated": "Mar-17",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "Israel: Managing Director Charged over Allegations of Misreported Tax Transactions",
+    "Status": "Ongoing",
+    "Last Updated": "Feb-17",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "Brazil: Criticisms over Alleged Failure to Properly Monitor Investments",
+    "Status": "Ongoing",
+    "Last Updated": "Oct-16",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Minor",
+    "Headline": "United States: Inquiry over Facilitation of Jeffrey Epstein Funds",
+    "Status": "Ongoing",
+    "Last Updated": "Aug-19",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Minor",
+    "Headline": "Netherlands: EUR 175 Million Lawsuit Settlement over Alleged Improper Selling of Interest Rate Derivatives and Bribery Allegations to Facilitate Trade",
+    "Status": "Concluded",
+    "Last Updated": "Jul-19",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Minor",
+    "Headline": "United States: 2016 USD7.2 Billion Agreement to Settle Allegations of Selling Risky Mortgage-Backed Securities; USD 4.1 Billion in Consumer Relief Instead to be Spent on New Loan Origination",
+    "Status": "Concluded",
+    "Last Updated": "May-19",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Minor",
+    "Headline": "New York, United States: Dismissal of Lawsuit over Alleged Violation of Sanctions and Abetting Terrorism Through Facilitation of Banking Services to Iran",
+    "Status": "Concluded",
+    "Last Updated": "Apr-19",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Minor",
+    "Headline": "South Korea: KRW 212 Million Regulatory Penalty over Alleged Manipulation of Foreign Exchange Derivatives between 2010 and 2012",
+    "Status": "Concluded",
+    "Last Updated": "Jan-19",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Minor",
+    "Headline": "United States: Dismissal of Lawsuit over Alleged Role in Facilitating Iranian Banking Leading to Iranian Weapon Sale, Bombing and Killing of U.S. Soldier",
+    "Status": "Concluded",
+    "Last Updated": "Jan-19",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Minor",
+    "Headline": "United States: Trader Penalized and Banned over Alleged Fraudulent Trading Activities to Hide Losses After Being Reported; Investigation on Company Closed",
+    "Status": "Concluded",
+    "Last Updated": "Nov-18",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Minor",
+    "Headline": "Settlement of ISDAfix Interest Rate Manipulation Allegations",
+    "Status": "Concluded",
+    "Last Updated": "Aug-18",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Minor",
+    "Headline": "Investigation over Use of Basket Options for Tax Avoidance",
+    "Status": "Concluded",
+    "Last Updated": "Aug-17",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "NGOs Call for Action from Vale Business Partners Following Feij�o Mine Tailings Dam Collapse",
+    "Status": "Ongoing",
+    "Last Updated": "Apr-19",
+    "Category1": "Financing Environmental Impact",
+    "Category2": "Climate Change",
+    "Category3": "Environment"
+  },
+  {
+    "Assessment": "Minor",
+    "Headline": "NGO Criticism over Alleged Substantial Funding for Fossil Fuel Companies",
+    "Status": "Ongoing",
+    "Last Updated": "May-19",
+    "Category1": "Financing Environmental Impact",
+    "Category2": "Climate Change",
+    "Category3": "Environment"
+  },
+  {
+    "Assessment": "Minor",
+    "Headline": "Canada: NGO Criticism over Increased Funding in Coastal Gaslink Pipeline",
+    "Status": "Ongoing",
+    "Last Updated": "Mar-19",
+    "Category1": "Financing Environmental Impact",
+    "Category2": "Climate Change",
+    "Category3": "Environment"
+  },
+  {
+    "Assessment": "Severe",
+    "Headline": "New York, United States: Certified Class Action over Alleged Excessive Fees and Mismanagement of Ongoing 401(k) Plan",
+    "Status": "Ongoing",
+    "Last Updated": "Nov-18",
+    "Category1": "Human Capital Development",
+    "Category2": "Human Capital",
+    "Category3": "Social"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "EU Court Ruled Establishment of Employee Work Hour Tracking for Proper Compensation Concluded",
+    "Status": "Concluded",
+    "Last Updated": "Mar-19",
+    "Category1": "Human Capital Development",
+    "Category2": "Human Capital",
+    "Category3": "Social"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "NGOs Call for Action from Vale Business Partners Following Feij�o Mine Tailings Dam Collapse",
+    "Status": "Ongoing",
+    "Last Updated": "Apr-19",
+    "Category1": "Responsible Investment",
+    "Category2": "Product Liability",
+    "Category3": "Social"
+  },
+  {
+    "Assessment": "Minor",
+    "Headline": "NGO Criticism over Alleged Substantial Funding for Fossil Fuel Companies",
+    "Status": "Ongoing",
+    "Last Updated": "May-19",
+    "Category1": "Responsible Investment",
+    "Category2": "Product Liability",
+    "Category3": "Social"
+  },
+  {
+    "Assessment": "Minor",
+    "Headline": "Canada: NGO Criticism over Increased Funding in Coastal Gaslink Pipeline",
+    "Status": "Ongoing",
+    "Last Updated": "Mar-19",
+    "Category1": "Responsible Investment",
+    "Category2": "Product Liability",
+    "Category3": "Social"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "Germany: Alleged Involvement in the Fraudulent Emissions Trading Scheme",
+    "Status": "Ongoing",
+    "Last Updated": "Aug-19",
+    "Category1": "Tax Transparency",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "Investigations over Alleged Role in Tax Avoidance through Dividend Arbitrage Trade; EUR 4 Million German Settlement with Frankfurt Prosecutor in December 2018",
+    "Status": "Ongoing",
+    "Last Updated": "Jun-19",
+    "Category1": "Tax Transparency",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "Regulatory Reviews over Alleged Role in the Panama Papers; German HQ Raided",
+    "Status": "Ongoing",
+    "Last Updated": "May-19",
+    "Category1": "Tax Transparency",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "EU: Criticism on the Discrepancies of Profit vs Taxes from the Use of Tax Havens",
+    "Status": "Ongoing",
+    "Last Updated": "Mar-17",
+    "Category1": "Tax Transparency",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "Israel: Managing Director Charged over Allegations of Misreported Tax Transactions",
+    "Status": "Ongoing",
+    "Last Updated": "Feb-17",
+    "Category1": "Tax Transparency",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Assessment: Severe",
+    "Headline": "New York, United States: Certified Class Action over Alleged Excessive Fees and Mismanagement of 401(k) Plan",
+    "Status": "Ongoing",
+    "Last Updated": "Oct-16",
+    "Category1": "Corruption & Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "United States: USD 500,000 Penalty on Subsidiary over Allegations of Misleading Clients Related to Hedge Fund",
+    "Status": "Concluded",
+    "Last Updated": "Jul-17",
+    "Category1": "Corruption & Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "U.S. SEC Settlement with 79 Investment Advisers over Alleged Inadequate Disclosures and Breach of Fiduciary Duty",
+    "Status": "Concluded",
+    "Last Updated": "Feb-17",
+    "Category1": "Corruption & Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "Poland: PLN 7 Million over Alleged Use of Prohibited Clauses in Credit Agreements Rendering Customers Unable to",
+    "Status": "Concluded",
+    "Last Updated": "Nov-18",
+    "Category1": "Business Ethics",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "United States: Lawsuit Filed over Alleged Discrimination in Maintaining and Marketing Foreclosed Houses",
+    "Status": "Ongoing",
+    "Last Updated": "Oct-16",
+    "Category1": "Corruption & Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Moderate",
+    "Headline": "United Kingdom: Investigation over Alleged Poor Disclosure Practice of Life Insurance Exit Fees",
+    "Status": "Ongoing",
+    "Last Updated": "Mar-17",
+    "Category1": "Anti-Competitive Practices",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Minor",
+    "Headline": "Illinois, United States: Putative Class Action Lawsuit over Alleged Unauthorized Use of Automated Telephone Dialing System for Debt Collection Purposes",
+    "Status": "Ongoing",
+    "Last Updated": "Nov-18",
+    "Category1": "Corruption & Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Minor",
+    "Headline": "Internal Inquiry over Potential Data Breach as Dismissed Staff Allegedly Continued Accessing Work Email",
+    "Status": "Ongoing",
+    "Last Updated": "Mar-17",
+    "Category1": "Corruption & Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Minor",
+    "Headline": "Poland: Account Fees Refunded after Regulator Proceedings Against Additional Fees Imposed to Accounts Linked to Loans",
+    "Status": "Concluded",
+    "Last Updated": "Nov-18",
+    "Category1": "Corruption & Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Minor",
+    "Headline": "United States: USD4.5 Million Penalty over Alleged False Disclosures and Over-payment upon Sales of Commercial Mortgage-Backed Securities",
+    "Status": "Concluded",
+    "Last Updated": "Mar-17",
+    "Category1": "Business Ethics",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Minor",
+    "Headline": "Canada: Combined CAD55.2 Million Settlement of Civil Lawsuit over Alleged Currency Manipulation",
+    "Status": "Concluded",
+    "Last Updated": "Aug-17",
+    "Category1": "Anti-Competitive Practices",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Severe",
+    "Headline": "Interbank Lending Rates Manipulation",
+    "Status": "Concluded",
+    "Last Updated": "Oct-16",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Severe",
+    "Headline": "Deutsche Bank has faced regulatory scrutiny from the European Commission, the U.S. Federal Deposit Insurance Corp (FDIC),",
+    "Status": "Concluded",
+    "Last Updated": "Aug-17",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Severe",
+    "Headline": "Deutsche Bank agreed to settle U.S. and U.K. charges by paying a total of USD 2.5 billion in penalties.",
+    "Status": "Concluded",
+    "Last Updated": "Jul-17",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Severe",
+    "Headline": "Former Deutsche Bank Trader in Euribor Case Gets Tough Bail. (WSJ)",
+    "Status": "Concluded",
+    "Last Updated": "Oct-16",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Severe",
+    "Headline": "Ex-Deutsche trader charged in rate-rigging case. (TELEGRAPH.CO.UK)",
+    "Status": "Concluded",
+    "Last Updated": "Aug-17",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Severe",
+    "Headline": "Deutsche Bank settles US LIBOR lawsuit for $240M. (SNL BANK AND THRIFT DAILY)",
+    "Status": "Concluded",
+    "Last Updated": "Mar-17",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Severe",
+    "Headline": "German court rejects British extradition request for ex-Deutsche Bank employees. (XINHUA GENERAL NEWS SERVICE)",
+    "Status": "Concluded",
+    "Last Updated": "Jul-17",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Severe",
+    "Headline": "Nine banks accused of rigging key Canada lending rate. (Financial Times)",
+    "Status": "Concluded",
+    "Last Updated": "Mar-17",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Severe",
+    "Headline": "New York Court Dismisses CHF LIBOR Suit.",
+    "Status": "Concluded",
+    "Last Updated": "Nov-18",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "Severe",
+    "Headline": "Deutsche Bank agrees to $220m settlement in US Libor probe. (TELEGRAPH.CO.UK)",
+    "Status": "Concluded",
+    "Last Updated": "Feb-17",
+    "Category1": "Financial System Instability",
+    "Category2": "Corporate Behavior",
+    "Category3": "Governance"
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  },
+  {
+    "Assessment": "",
+    "Headline": "",
+    "Status": "",
+    "Last Updated": "",
+    "Category1": "",
+    "Category2": "",
+    "Category3": ""
+  }
+]
