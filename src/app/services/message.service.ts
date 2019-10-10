@@ -14,7 +14,6 @@ export class MessageService {
   }
 
   public getJSON(): Observable<any> {
-    console.log(this.http.get("assets\json\TestDataESG.json"));
-    return this.http.get("assets\json\TestDataESG.json");
+    return this.http.get("assets/json/birds.json");
   }
 }
