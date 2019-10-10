@@ -13,7 +13,7 @@
     </div>
 
     <!-- Login Form -->
-    <form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+    <form [formGroup]="loginForm">
       <input type="text" formControlName="username" id="username" class="fadeIn second" name="username" placeholder="login">
       <input type="text" formControlName="password" id="password" class="fadeIn third" name="password" placeholder="password">
       <input type="submit" (click)="login()" class="fadeIn fourth" value="Log In">

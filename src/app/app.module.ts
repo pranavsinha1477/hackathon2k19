@@ -10,6 +10,8 @@ import {RouterModule} from "@angular/router";
 import {appRoutes} from "./app.routes";
 import {HomeComponent} from "./pages/home/home.component";
 import { LoginComponent } from './components/login/login.component';
+import { MessageService } from './services/message.service';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -23,10 +25,11 @@ import { LoginComponent } from './components/login/login.component';
     BrowserModule,
     FormsModule,
     HttpModule,
+    HttpClientModule,
     ReactiveFormsModule,
     RouterModule.forRoot(appRoutes)
   ],
-  providers: [],
+  providers: [MessageService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
